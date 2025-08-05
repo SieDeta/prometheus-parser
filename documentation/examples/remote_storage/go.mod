@@ -1,4 +1,4 @@
-module github.com/zzylol/prometheus-sketch-VLDB/prometheus-sketches/documentation/examples/remote_storage
+module github.com/SieDeta/prometheus-parser/documentation/examples/remote_storage
 
 go 1.21
 
